@@ -1,0 +1,46 @@
+.bg-pole {
+  background-color: black;
+  width: 30px;
+  margin: auto;
+  height: 80px;
+  padding-bottom: 10px;
+}
+
+.bg-trafficlight {
+  background-color: black;
+  width: 100px;
+  height: 320px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.light {
+  border-radius: 999px;
+  width: 90px;
+  height: 90px;
+  margin: auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.onyellow {
+  box-shadow: 0 0 30px 30px yellow;
+}
+
+.onred {
+  box-shadow: 0 0 30px 30px red;
+}
+
+.ongreen {
+  box-shadow: 0 0 30px 30px green;
+}
